@@ -10,14 +10,14 @@
         <steps>
             <step>
                 <cmd>点击页面右上角的项目聊天室<uicontrol><image href="../images/icon/icon_open_chat.png"
-                            id="image_i24_nwc_dgb" height="20"/></uicontrol></cmd>
+                            id="image_i24_nwc_dgb" height="20" width="90"/></uicontrol></cmd>
             </step>
             <step>
                 <cmd>将光标移动开输入框中，然后输入消息</cmd>
             </step>
             <step>
                 <cmd>点击发送<uicontrol><image href="../images/icon/icon_send.png"
-                            id="image_ykf_5wc_dgb" height="20"/></uicontrol>，完成发送消息</cmd>
+                            id="image_ykf_5wc_dgb" height="20" width="70"/></uicontrol>，完成发送消息</cmd>
                 <info>
                     <fig id="fig_dmn_zwc_dgb">
                         <title>项目聊天室</title>

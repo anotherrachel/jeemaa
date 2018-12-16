@@ -13,7 +13,7 @@
                             id="image_ntz_bnc_dgb" width="50" height="20"
                             /></uicontrol>或者对待行右侧的备注信息<uicontrol><image
                             href="../images/icon/icon_left_note.png" id="image_p4w_j4c_dgb"
-                            height="20"/></uicontrol></cmd>
+                            height="20" width="20"/></uicontrol></cmd>
             </step>
             <step>
                 <cmd>等待出现备注窗口</cmd>
@@ -32,7 +32,7 @@
             </step>
             <step>
                 <cmd>点击添加备注<image href="../images/icon/icon_add_note.png" id="image_mzs_s4c_dgb"
-                        height="20"/></cmd>
+                        height="20" width="60"/></cmd>
             </step>
         </steps>
     </taskbody>
