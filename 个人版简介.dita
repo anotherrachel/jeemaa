@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dzb_fr1_dgb">
+    <title>个人版简介</title>
+    <shortdesc>译马网是专业译者在线工作平台，支持使用海量语料库和机器翻译，拥有持续稳定的翻译订单，能够在线结算。</shortdesc>
+    <conbody>
+        <p>基本功能特点如下：<ol id="ol_s2j_qr1_dgb">
+                <li>辅助翻译<ul id="ul_pmf_ms1_dgb">
+                        <li>翻译记忆：自动保存翻译过的内容。</li>
+                        <li>导出对照：输出原文件的对照格式 。</li>
+                        <li>术语提示：自动识别句子中的术语。</li>
+                        <li>低错检查：自动检查术语、拼写等错误。</li>
+                        <li>海量语料：提供翻译企业提供的优质语料 。</li>
+                        <li>优质机翻：提供垂直领域的机器翻译引擎。</li>
+                    </ul></li>
+                <li>承接稿件<ul id="ul_k2w_22b_dgb">
+                        <li>订单量大：上千家翻译企业入驻，每天发布大量翻译任务。</li>
+                    </ul><ul id="ul_b2x_5db_dgb">
+                        <li>接单方便：经过认证的译员可以承接企业发布的翻译任务。 </li>
+                        <li>自动结算：平台在线结算，担保交易，能保障译员的利益。</li>
+                    </ul></li>
+            </ol></p>
+    </conbody>
+</concept>
