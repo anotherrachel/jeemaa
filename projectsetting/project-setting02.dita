@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="other_function00">
+    <title>更改记忆库和术语库设置</title>
+    <shortdesc>管理已有或添加新的翻译记忆库与术语库。</shortdesc>
+    <taskbody>
+        <context>
+            <p>更改记忆库和术语库设置可以帮助你更好的管理已有或添加新的翻译记忆库与术语库供在线翻译使用，更加优化和便捷你在译马网的翻译过程和体验。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>在个人主页界面所列的菜单栏单击栏目"语料"进入"我的语料"界面<uicontrol><image
+                            href="../images/icon/icon-corpus.png" id="image_ntz_bnc_dgb" width="50"
+                            height="30"/></uicontrol>即可进入翻译记忆库和术语库的管理界面</cmd>
+                <info>
+                    <fig id="fig_jwl_ptq_dgb">
+                        <title>如下图所示</title>
+                        <image href="../images/corpus-setting/step0.png" width="600" height="300"
+                            id="image_jhg_ptq_dgb"/>
+                    </fig>
+                </info>
+                <info>
+                    <fig id="fig_tpq_rms_dgb">
+                        <image href="../images/corpus-setting/step1.png" width="600" height="300"
+                            id="image_upq_rms_dgb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>记忆库和术语库的管理都分为创建和合并两种操作，如果想增加新的记忆库和术语库，点击<uicontrol><image
+                            href="../images/icon/icon-creatememory.png" width="80" height="30"
+                            id="image_nxn_t5q_dgb"/><image href="../images/icon/icon-createterm.png"
+                            width="80" height="30" id="image_w11_zns_dgb"/></uicontrol>按钮</cmd>
+            </step>
+            <step>
+                <cmd>选择要上传的本地记忆库或术语库</cmd>
+                <info>
+                    <fig>
+                        <title>上传本地记忆库/术语库界面</title>
+                        <image href="../images/corpus-setting/step2.png" id="image_cys_r4c_dgb"
+                            width="600" height="250"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>还可合并已有的翻译记忆库和术语库，点击<uicontrol><image href="../images/icon/icon-mergememory.png"
+                            width="100" height="30" id="image_bzm_t5r_dgb"/><image
+                            href="../images/icon/icon-mergeterm.png" width="100" height="30"
+                            id="image_cby_gps_dgb"/></uicontrol>选择需要合并的多个记忆库或术语库以合并。</cmd>
+            </step>
+            <step>
+                <cmd>另外译马网的记忆库还支持共享功能，在记忆库管理界面单击<uicontrol><image
+                            href="../images/icon/icon-share1.png" width="70" height="30"
+                            id="image_ehh_5ps_dgb"/><image href="../images/icon/icon-share2.png"
+                            width="70" height="30" id="image_t2v_fqs_dgb"
+                    /></uicontrol>分别可查看共享给别人和别人共享过来的翻译记忆库。在"别人分享给我的"选项卡内还可设置是否启用第三方记忆库。</cmd>
+                <info>
+                    <fig id="fig_fhh_5ps_dgb">
+                        <image href="../images/corpus-setting/step3.png" width="600" height="300"
+                            id="image_ghh_5ps_dgb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

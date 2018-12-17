@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="other_function00">
+    <title>新增翻译文件</title>
+    <shortdesc>临时增加的翻译任务文件。</shortdesc>
+    <taskbody>
+        <context>
+            <p>新增翻译文件可帮助添加临时增加的翻译任务文件内容，不需再重建一个新项目。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>在个人主页界面所列的菜单栏单击栏目"项目"进入"我的项目"界面<uicontrol><image
+                            href="../images/icon/icon-project.png" id="image_ntz_bnc_dgb" width="50"
+                            height="30"/></uicontrol>然后点击相应项目右侧的编辑按钮<uicontrol><image
+                            href="../images/icon/icon_edit.png" id="image_p4w_j4c_dgb" height="30"
+                            width="30"/></uicontrol></cmd>
+                <info>
+                    <fig id="fig_jwl_ptq_dgb">
+                        <title>如下图所示</title>
+                        <image href="../images/addnewfile/step0.png" width="600" height="300"
+                            id="image_ff3_fks_dgb"/>
+                        <image href="../images/addnewfile/step1.png" width="600" height="300"
+                            id="image_jhg_ptq_dgb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>进入项目编辑界面可以看到任务的进度情况，如果想增加新的翻译文件，点击"上传文件"<uicontrol><image
+                            href="../images/icon/icon-upload-file.png" width="60" height="30"
+                            id="image_nxn_t5q_dgb"/></uicontrol></cmd>
+                <info>
+                    <fig id="fig_bys_r4c_dgb">
+                        <title>项目编辑界面</title>
+                        <image href="../images/addnewfile/step2.png" id="image_cys_r4c_dgb"
+                            width="600" height="200"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>选择要上传的本地文件</cmd>
+            </step>
+            <step>
+                <cmd>上传好会显示"上传成功"字样<uicontrol><image href="../images/icon/icon-success.png"
+                            width="50" height="30" id="image_bzm_t5r_dgb"
+                    /></uicontrol>如对文件导入另有特殊要求系统会提示需不需要配置进一步的文件导入设置（如针对.doc/docx格式的文件需不需要导入隐藏内容、批注、内嵌文件等）</cmd>
+                <info>
+                    <fig id="fig_dzm_t5r_dgb">
+                        <title>如下图所示</title>
+                        <image href="../images/addnewfile/step3.png" width="600" height="300"
+                            id="image_ezm_t5r_dgb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>设置好单击"下一步"跳转页面即导入成功<uicontrol><image href="../images/icon/icon-import.png"
+                            width="50" height="30" id="image_a31_vvr_dgb"
+                    /></uicontrol>还可设置需不需要对新导入的文件进行预翻译</cmd>
+                <info>
+                    <fig id="fig_b31_vvr_dgb">
+                        <image href="../images/addnewfile/step4.png" width="600" height="300"
+                            id="image_c31_vvr_dgb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>继续单击"下一步"重新刷新页面看到上传的文件下方出现日期和时间信息，表示新增的翻译文件已上传成功。</cmd>
+                <info>
+                    <fig id="fig_wlr_2yr_dgb">
+                        <image href="../images/addnewfile/step5.png" width="600" height="300"
+                            id="image_xlr_2yr_dgb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
