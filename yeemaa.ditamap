@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>译马网指南</title>
+    <topicref href="createProjects/createproject.dita">
+        <topicref href="createProjects/0.dita"/>
+        <topicref href="createProjects/1.dita"/>
+        <topicref href="createProjects/2.dita">
+            <topicref href="createProjects/3.dita"/>
+            <topicref href="createProjects/4.dita"/>
+            <topicref href="createProjects/5.dita"/>
+            <topicref href="createProjects/6.dita"/>
+        </topicref>
+        <topicref href="createProjects/7.dita"/>
+    </topicref>
+    <topicref href="otherfunction/other_function.dita">
+        <topicref href="otherfunction/other_function00.dita"/>
+        <topicref href="otherfunction/other_function01.dita"/>
+        <topicref href="otherfunction/other_function02.dita"/>
+    </topicref>
+    <topicref href="FAQs/faqs.dita"/>
+    
+</map>

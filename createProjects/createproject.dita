@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="topic_qfc_gph_dgb">
+    <title>创建项目</title>
+    <conbody>
+        <p>您可以创建个人翻译项目，本文为您介绍创建项目的流程。</p>
+        <p>
+            <fig id="fig_enx_4ph_dgb">
+                <title>创建项目流程图</title>
+                <image href="../images/procedure.png" id="image_fnx_4ph_dgb" height="410"
+                    width="620"/>
+            </fig>
+        </p>
+    </conbody>
+</concept>
