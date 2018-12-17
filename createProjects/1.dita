@@ -23,7 +23,7 @@
                 <cmd>添加项目备注。</cmd>
             </step>
             <step>
-                <cmd>点击“下一步”按钮<image href="%E4%B8%8B%E4%B8%80%E6%AD%A5.png" width="80" height="22"
+                <cmd>点击“下一步”按钮<image href="../images/icon/%E4%B8%8B%E4%B8%80%E6%AD%A5.png" width="80" height="22"
                         id="image_kmp_hcj_dgb"/>，进行下一步操作。</cmd>
             </step>
         </steps>
