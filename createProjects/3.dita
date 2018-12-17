@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="tly_yh3_dgb">
+    <title>选择机器翻译工具</title>
+    <taskbody>
+        <context>
+            <p>您可以根据个人喜好选择机器翻译工具，主要有译马机器翻译、秦穆机器翻、小牛机器翻译、谷歌机器翻译和百度机器翻译供您选择。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击每个机器翻译前的“圆点”按钮<image href="%E5%9C%86%E7%82%B9.png" width="22" height="22"
+                        id="image_lz5_rfj_dgb"/>，即可选择相应的机器翻译工具。</cmd>
+            </step>
+            <step>
+                <cmd>点击“通用领域”按钮<image href="%E9%80%9A%E7%94%A8%E9%A2%86%E5%9F%9F.png" width="80"
+                        height="22" id="image_yjw_5cj_dgb"/>可选择应用的领域。</cmd>
+            </step>
+            <step>
+                <cmd>点击“试一试”按钮<image href="%E8%AF%95%E4%B8%80%E8%AF%95.png" width="60" height="22"
+                        id="image_gjm_xcj_dgb"/>可测试相应的机器翻译。</cmd>
+            </step>
+            <step>
+                <cmd>无需点击“下一步”按钮。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

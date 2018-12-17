@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="omj_zh3_dgb">
+    <title>选择共享记忆库</title>
+    <taskbody>
+        <steps id="steps_gfg_h23_dgb">
+            <step>
+                <cmd>点击“共享记忆库”按钮<image href="%E5%85%B1%E4%BA%AB%E8%AE%B0%E5%BF%86%E5%BA%932.png"
+                        width="70" height="22" id="image_arz_qgj_dgb"/>进入共享记忆库界面。</cmd>
+            </step>
+            <step>
+                <cmd>点击使用下面的“方框”按钮<image href="%E6%96%B9%E6%A1%86.png" width="22" height="22"
+                        id="image_oqs_wfj_dgb"/>，选择使用该记忆库。</cmd>
+            </step>
+            <step>
+                <cmd>点击“下一步”按钮<image href="%E4%B8%8B%E4%B8%80%E6%AD%A5.png" id="image_a3r_wdj_dgb"
+                        height="22" width="80"/>，进行下一步操作。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

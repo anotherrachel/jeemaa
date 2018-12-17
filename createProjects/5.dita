@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="x5g_zh3_dgb">
+    <title>创建个人记忆库</title>
+    <shortdesc>您可根据需要选择创建使用一个或多个记忆库，但只能将其中一个记忆库设置为更新库（启用了“更新”选项的库），该记忆库用于保存本项目新产生的语料。</shortdesc>
+    <taskbody>
+        <steps id="steps_zgc_rc3_dgb">
+            <step>
+                <cmd>点击“个人记忆库”按钮<image href="%E4%B8%AA%E4%BA%BA%E8%AE%B0%E5%BF%86%E5%BA%931.png"
+                        width="70" height="22" id="image_ekn_mgj_dgb"/>进入个人记忆库界面。</cmd>
+            </step>
+            <step>
+                <cmd>点击“创建记忆库”按钮<image href="%E5%88%9B%E5%BB%BA%E8%AE%B0%E5%BF%86%E5%BA%93.png"
+                        width="70" height="22" id="image_y4v_4dj_dgb"/>创建记忆库。</cmd>
+            </step>
+            <step>
+                <cmd>在弹出的窗口设置记忆库的相关信息，包括记忆库名称、导入记忆库文件、选择标签、选择语种、添加备注。</cmd>
+            </step>
+            <step>
+                <cmd>点击使用下面的“方框”按钮<image href="%E6%96%B9%E6%A1%86.png" width="22" height="22"
+                        id="image_oqs_wfj_dgb"/>，选择使用该记忆库。</cmd>
+            </step>
+            <step>
+                <cmd>点击更新下面的“圆点”按钮<image href="%E5%9C%86%E7%82%B9.png" width="22" height="22"
+                        id="image_dls_xfj_dgb"/>，设置该记忆库为更新库。</cmd>
+            </step>
+            <step>
+                <cmd>无需点击“下一步”按钮。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

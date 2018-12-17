@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ljs_yh3_dgb">
+    <title>填写项目信息</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>填写项目名称，如：医学翻译项目。</cmd>
+            </step>
+            <step>
+                <cmd>选择待翻译文件的源语言，如：简体中文。</cmd>
+            </step>
+            <step>
+                <cmd>选择待翻译文件的目标语言，如：英语。</cmd>
+            </step>
+            <step>
+                <cmd>设置项目截止时间。</cmd>
+            </step>
+            <step>
+                <cmd>选择项目标签，如：医学。</cmd>
+            </step>
+            <step>
+                <cmd>添加项目备注。</cmd>
+            </step>
+            <step>
+                <cmd>点击“下一步”按钮<image href="%E4%B8%8B%E4%B8%80%E6%AD%A5.png" width="80" height="22"
+                        id="image_kmp_hcj_dgb"/>，进行下一步操作。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

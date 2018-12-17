@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="anp_yh3_dgb">
+    <title>上传待翻译文件</title>
+    <taskbody>
+        <prereq id="prereq_t4m_tph_dgb">已注册并登录译马网。</prereq>
+        <steps id="steps_xzh_vph_dgb">
+            <step>
+                <cmd>点击主页“上传待翻译的文件”按钮<image
+                        href="%E4%B8%8A%E4%BC%A0%E5%BE%85%E7%BF%BB%E8%AF%91%E7%9A%84%E6%96%87%E4%BB%B6.png"
+                        width="100" height="22" id="image_uwg_nbj_dgb"/>，进入创建项目页面。</cmd>
+            </step>
+            <step>
+                <cmd>点击“选择上传待翻译的文件”按钮<image
+                        href="%E9%80%89%E6%8B%A9%E4%B8%8A%E4%BC%A0%E5%BE%85%E7%BF%BB%E8%AF%91%E7%9A%84%E6%96%87%E4%BB%B6.png"
+                        width="130" height="22" id="image_dqg_dcj_dgb"/>上传文件。</cmd>
+            </step>
+            <step>
+                <cmd>在弹出的窗口选择您要翻译的文件。</cmd>
+            </step>
+            <step>
+                <cmd>点击“下一步”按钮<image href="%E4%B8%8B%E4%B8%80%E6%AD%A5.png" width="80" height="22"
+                        id="image_kmp_hcj_dgb"/>，进行下一步操作。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

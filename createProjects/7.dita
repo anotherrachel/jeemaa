@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ejm_zh3_dgb">
+    <title>预翻</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>点击预翻译前的“方框”<image href="%E6%96%B9%E6%A1%86.png" width="22" height="22"
+                        id="image_oqs_wfj_dgb"/>，选择使用个人语料、共享语料或机器翻译引擎进行自动翻译。</cmd>
+            </step>
+            <step>
+                <cmd>点击“下一步”按钮<image href="%E4%B8%8B%E4%B8%80%E6%AD%A5.png" width="80" height="22"
+                        id="image_fcr_b2j_dgb"/>。</cmd>
+            </step>
+            <step>
+                <cmd>在弹出的窗口选择进行预翻译的工具以及匹配率。</cmd>
+            </step>
+            <step>
+                <cmd>点击“确定”，等待预翻译完成。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

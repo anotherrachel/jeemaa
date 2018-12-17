@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="kff_zh3_dgb">
+    <title>创建术语库</title>
+    <shortdesc>您可根据需要选择创建使用一个或多个术语库，但只能将其中一个术语库设置为QA库（启用了“QA”选项的库），在QA（低错检查）过程中检查术语的正确性和一致性。 </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>点击“术语库”按钮<image href="%E6%9C%AF%E8%AF%AD%E5%BA%931.png" width="56" height="22"
+                        id="image_s5d_tfj_dgb"/>进入术语库界面。</cmd>
+            </step>
+            <step>
+                <cmd>点击“创建术语库”按钮<image href="%E5%88%9B%E5%BB%BA%E6%9C%AF%E8%AF%AD%E5%BA%93.png"
+                        width="70" height="22" id="image_hxt_ddj_dgb"/>创建术语库。</cmd>
+            </step>
+            <step>
+                <cmd>在弹出的窗口设置术语库的相关信息，包括术语库名称、导入术语库文件、选择标签、选择语种、添加备注。</cmd>
+            </step>
+            <step>
+                <cmd>点击使用下面的“方框”按钮<image href="%E6%96%B9%E6%A1%86.png" width="22" height="22"
+                        id="image_oqs_wfj_dgb"/>，选择使用该术语库。</cmd>
+            </step>
+            <step>
+                <cmd>点击QA下面的“圆点”按钮<image href="%E5%9C%86%E7%82%B9.png" width="22" height="22"
+                        id="image_dls_xfj_dgb"/>，设置该术语库为QA术语库。</cmd>
+            </step>
+            <step>
+                <cmd>无需点击“下一步”按钮。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
