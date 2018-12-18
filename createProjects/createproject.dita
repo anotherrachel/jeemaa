@@ -4,7 +4,15 @@
     <title>创建项目</title>
     <shortdesc>注册并登陆译马网后，可以自行创建翻译项目，了解之后能使你熟悉创建项目流程，快速创建项目。</shortdesc>
     <conbody>
-        <p>本节介绍创建项目的流程，主要包括以下四个步骤：。</p>
+        <p>本节介绍创建项目的流程，主要包括以下四个步骤：</p>
+        <p>
+            <ul>
+                <li><xref href="0.dita">上传待翻译的文件</xref></li>
+                <li><xref href="1.dita">填写项目信息</xref></li>
+                <li><xref href="2.dita">选择翻译工具</xref></li>
+                <li><xref href="7.dita">预翻</xref></li>
+            </ul>
+        </p>
         <p>
             <fig id="fig_enx_4ph_dgb">
                 <title>创建项目流程图</title>
