@@ -2,6 +2,10 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>译马网指南</title>
+    <topicref href="quickstart/%E4%B8%AA%E4%BA%BA%E7%89%88%E7%AE%80%E4%BB%8B.dita">
+        <topicref href="quickstart/%E5%9F%BA%E6%9C%AC%E6%B5%81%E7%A8%8B.dita"/>
+        <topicref href="quickstart/%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.dita"/>
+    </topicref>
     <topicref href="createProjects/createproject.dita">
         <topicref href="createProjects/0.dita"/>
         <topicref href="createProjects/1.dita"/>
