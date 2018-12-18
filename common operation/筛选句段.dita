@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="other_function02">
+    <title>筛选句段</title>
+    <shortdesc>快速查找符合条件的句段，提高工作效率</shortdesc>
+    <taskbody>
+        <context>
+            <p>支持多条件混合筛选句段</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>选择好后点击“筛选”按钮即可</cmd>
+                <info>
+                    <fig id="fig_fbz_slk_dgb">
+                        <title>筛选句段</title>
+                        <image
+                            href="../images/common%20operation/%E7%AD%9B%E9%80%89%E5%8F%A5%E6%AE%B5.png"
+                            width="200" height="400" id="image_gbz_slk_dgb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

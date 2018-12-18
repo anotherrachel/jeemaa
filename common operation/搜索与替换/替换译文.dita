@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="other_function11">
+    <title>替换译文</title>
+    <shortdesc>批量替换译文内容，有助于保持译文的一致性</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>界面右下角点击“替换”按钮可以切换至替换界面</cmd>
+                <info>
+                    <fig id="fig_hkx_2pk_dgb">
+                        <title>替换</title>
+                        <image href="../../images/common%20operation/%E6%9B%BF%E6%8D%A2.png"
+                            width="500" height="500" id="image_ikx_2pk_dgb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>点击查找结果对应句段号可直接跳转至该句段查看</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
