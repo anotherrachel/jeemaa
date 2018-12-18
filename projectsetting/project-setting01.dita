@@ -16,9 +16,13 @@
                             width="30"/></uicontrol></cmd>
                 <info>
                     <fig id="fig_jwl_ptq_dgb">
-                        <title>如下图所示</title>
+                        <title>主界面</title>
                         <image href="../images/addnewfile/step0.png" width="600" height="300"
                             id="image_ff3_fks_dgb"/>
+                        
+                    </fig>
+                    <fig>
+                        <title>右侧编辑</title>
                         <image href="../images/addnewfile/step1.png" width="600" height="300"
                             id="image_jhg_ptq_dgb"/>
                     </fig>
