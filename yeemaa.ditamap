@@ -13,6 +13,11 @@
         </topicref>
         <topicref href="createProjects/7.dita"/>
     </topicref>
+    <topicref href="projectsetting/project-setting.dita">
+        <topicref href="projectsetting/project-setting01.dita"/>
+        <topicref href="projectsetting/project-setting02.dita"/>
+        <topicref href="projectsetting/project-setting03.dita"/>
+    </topicref>
     <topicref href="otherfunction/other_function.dita">
         <topicref href="otherfunction/other_function00.dita"/>
         <topicref href="otherfunction/other_function01.dita"/>
