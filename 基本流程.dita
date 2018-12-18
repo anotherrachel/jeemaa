@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_pdk_t2b_dgb">
+    <title>基本流程</title>
+    <shortdesc>使用译马网从注册到翻译完一个文件的整个流程如下图所示。</shortdesc>
+    <conbody>
+        <p><image href="../%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg" id="image_mys_mlb_dgb"/></p>
+    </conbody>
+</concept>
