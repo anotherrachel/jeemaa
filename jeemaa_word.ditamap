@@ -27,8 +27,8 @@
             <topicref href="commonoperation/text_edit/text_edit03.dita"/>
         </topicref>
         <topicref href="commonoperation/source_edit/source_edit.dita">
-            <topicref href="commonoperation/source_edit/source_edit01.dita"/>
             <topicref href="commonoperation/source_edit/source_edit02.dita"/>
+            <topicref href="commonoperation/source_edit/source_edit01.dita"/>
         </topicref>
         <topicref href="commonoperation/search_and_replace/search_and_replace.dita">
             <topicref href="commonoperation/search_and_replace/search_and_replace01.dita"/>
