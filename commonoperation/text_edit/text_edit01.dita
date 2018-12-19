@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="other_function00">
+    <title>格式编辑</title>
+    <shortdesc>您可以根据需要对原文和译文的文字做一些格式上的修改。</shortdesc>
+    <taskbody>
+        <context>
+            <p>你可以对文字进行加粗、倾斜、添加下划线、添加上标和下标，以及清除所有格式的操作。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>选中待修改格式的内容，点击工具栏对应的图标或使用<xref
+                        href="../../quickstart/shortcuts.dita#concept_ikw_slb_dgb"
+                    >快捷键</xref>修改格式。</cmd>
+                <info>
+                    <fig id="fig_ovc_njg_2gb">
+                        <title>格式编辑图标</title>
+                        <image placement="inline"
+                            href="../../images/common%20operation/text_edit01.png"
+                            id="image_ctz_gkg_2gb" scale="80"/>
+                    </fig>
+                </info>
+                <info>
+                    <table frame="all" rowsep="1" colsep="1" id="table_mfl_5mf_2gb">
+                        <tgroup cols="2">
+                            <colspec colname="c1" colnum="1" colwidth="1*"/>
+                            <colspec colname="c2" colnum="2" colwidth="1*"/>
+                            <thead>
+                                <row>
+                                    <entry>序号</entry>
+                                    <entry>含义</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry align="center" valign="middle">①</entry>
+                                    <entry align="center" valign="middle"><b>加粗</b></entry>
+                                </row>
+                                <row>
+                                    <entry align="center" valign="middle">②</entry>
+                                    <entry align="center" valign="middle"><i>斜体</i></entry>
+                                </row>
+                                <row>
+                                    <entry align="center" valign="middle">③</entry>
+                                    <entry align="center" valign="middle"><u>下划线</u></entry>
+                                </row>
+                                <row>
+                                    <entry align="center" valign="middle">④</entry>
+                                    <entry align="center" valign="middle">下标<sub>2</sub></entry>
+                                </row>
+                                <row>
+                                    <entry align="center" valign="middle">⑤</entry>
+                                    <entry align="center" valign="middle">上标<sup>2</sup></entry>
+                                </row>
+                                <row>
+                                    <entry align="center" valign="middle">⑥</entry>
+                                    <entry align="center" valign="middle">清除格式</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </info>
+            </step>
+            <step>
+                <cmd>如需要复制原文中的加粗、斜体、下划线等格式，在译文区选中要应用格式的文字，点击原文中对应的文字即可。 </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="quickstart">
+    <title>快速入门</title>
+    <shortdesc>您可以从了解译马网平台的基本流程开始快速入门。</shortdesc>
+    <conbody>
+        <p><fig id="fig_etv_y23_2gb">
+                <title>译马网工作流程</title>
+            <image href="../images/routinemap.png" id="image_mys_mlb_dgb" height="500"
+                width="600"/></fig></p>
+    </conbody>
+</concept>

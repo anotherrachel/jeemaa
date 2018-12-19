@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="other_function00">
+    <title>搜索原文与译文</title>
+    <shortdesc>在工具栏的搜索框中可完成对译文和原文的分别检索。</shortdesc>
+    <taskbody>
+        <context>快速地检索到你想要的内容。</context>
+        <steps>
+            <step>
+                <cmd>在搜索框中输入要搜索的原文或译文。</cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>筛选</uicontrol>按钮或使用快捷键（Enter）即可查看搜索结果。</cmd>
+                <info>
+                    <fig id="fig_chl_24k_dgb">
+                        <title>搜索原文与译文</title>
+                        <image
+                            href="../../images/common%20operation/%E6%90%9C%E7%B4%A2%E5%8E%9F%E6%96%87%E4%B8%8E%E8%AF%91%E6%96%87.png"
+                            id="image_dhl_24k_dgb" scale="80"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>开启<uicontrol>模糊搜索</uicontrol>可以查看更多的搜索结果。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

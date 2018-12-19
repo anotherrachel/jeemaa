@@ -9,51 +9,53 @@
         </context>
         <steps>
             <step>
-                <cmd>当翻译任务完成后，进入"我的项目"管理页面，然后点击相应项目右侧的下载按钮<uicontrol><image
-                            href="../images/icon/icon-download.png" id="image_p4w_j4c_dgb" height="30"
-                            width="30"/></uicontrol></cmd>
+                <cmd>当翻译任务完成后，进入<uicontrol>我的项目</uicontrol>管理页面，然后点击相应项目右侧的下载按钮<uicontrol><image
+                            href="../images/icon/icon-download.png" id="image_p4w_j4c_dgb"
+                            height="30" width="30"/></uicontrol>。</cmd>
                 <info>
                     <fig id="fig_jwl_ptq_dgb">
-                        <title>如下图所示</title>
-                        <image href="../images/projectexport/step0.png" width="500" height="200"
+                        <title>导出翻译结果</title>
+                        <image href="../images/projectexport/step0.png" width="800"
                             id="image_jhg_ptq_dgb"/>
                     </fig>
                 </info>
             </step>
             <step>
-                <cmd>译马网提供多种不同的最终导出形式，在弹出的下拉菜单里选择需要导出的形式</cmd>
+                <cmd>译马网提供多种不同的最终导出形式，在弹出的下拉菜单里选择需要导出的形式。</cmd>
                 <info>
                     <fig id="fig_bys_r4c_dgb">
-                        <title>项目导出界面</title>
+                        <title>选择需要导出的形式</title>
                         <image href="../images/projectexport/step1.png" id="image_cys_r4c_dgb"
                             width="500" height="200"/>
                     </fig>
                 </info>
             </step>
             <step>
-                <cmd>选择导出"译文文本"或"原文文本"形式时，系统会提示选择是否需要导出非译去重句段。</cmd>
+                <cmd>选择导出<uicontrol>译文文本</uicontrol>或<uicontrol>原文文本</uicontrol>形式时，系统会提示选择是否需要导出非译去重句段。</cmd>
                 <info>
                     <fig id="fig_dzm_t5r_dgb">
-                        <title>如下图所示</title>
-                        <image href="../images/projectexport/step2.png" width="500" height="100"
-                            id="image_ezm_t5r_dgb"/>
+                        <title>选择是否导出非译去重句段</title>
+                        <image href="../images/projectexport/step2.png" id="image_ezm_t5r_dgb"
+                            width="800"/>
                     </fig>
                 </info>
             </step>
             <step>
-                <cmd>选择导出"项目记忆"或"项目术语"可单独导出该特定项目的记忆库和术语库，在弹出的导出设置页面选择导出到现有的库或另建新的库。</cmd>
+                <cmd>选择导出<uicontrol>项目记忆</uicontrol>或<uicontrol>项目术语</uicontrol>可单独导出该特定项目的记忆库和术语库，在弹出的导出设置页面选择导出到现有的库或另建新的库。</cmd>
                 <info>
                     <fig id="fig_b31_vvr_dgb">
-                        <image href="../images/projectexport/step3.png" width="500" height="100"
+                        <title>导出项目术语/记忆</title>
+                        <image href="../images/projectexport/step3.png" width="800"
                             id="image_c31_vvr_dgb"/>
                     </fig>
                 </info>
             </step>
             <step>
-                <cmd>选择好导出形式后会出现导出完成对话框，在对话框内单击"下载"按钮就可下载导出文件。</cmd>
+                <cmd>选择好导出形式后会出现导出完成对话框，在对话框内点击<uicontrol>下载</uicontrol>按钮就可导出文件。</cmd>
                 <info>
                     <fig id="fig_wlr_2yr_dgb">
-                        <image href="../images/projectexport/step4.png" width="500" height="200"
+                        <title>下载翻译结果</title>
+                        <image href="../images/projectexport/step4.png" width="700"
                             id="image_xlr_2yr_dgb"/>
                     </fig>
                 </info>

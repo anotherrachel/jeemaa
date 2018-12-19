@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="term_setting03">
+    <title>删除术语</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>点击句段对应的译文栏时，系统会自动检查其中的术语并显示于右侧辅助区，同时下方会出现<uicontrol>编辑</uicontrol>和<uicontrol>删除</uicontrol>按钮。</cmd>
+            </step>
+            <step>
+                <cmd>选择待删除的术语，点击<uicontrol>删除</uicontrol>。</cmd>
+            </step>
+            <step>
+                <cmd>在弹出询问是否删除该术语对话框中选择<uicontrol>确认</uicontrol>，删除该术语并更新QA术语库。</cmd>
+                <info>
+                    <fig id="fig_bsp_tcg_2gb">
+                        <title>确认删除术语</title>
+                        <image placement="break" href="../images/common%20operation/deleteterm.png"
+                            id="image_mb1_vcg_2gb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

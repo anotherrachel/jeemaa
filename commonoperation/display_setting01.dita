@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nkz_3h2_dgb">
+    <title>调整字号</title>
+    <shortdesc/>
+    <taskbody>
+        <context>您可以根据需要对原文栏及译文栏的字号进行调整。</context>
+        <steps>
+            <step>
+                <cmd>在右上角设置功能区找到<uicontrol>字号设置</uicontrol>选项。</cmd>
+            </step>
+            <step>
+                <cmd>有<uicontrol>小</uicontrol>、<uicontrol>中</uicontrol>、<uicontrol>大</uicontrol>、<uicontrol>特大</uicontrol>4种字号可供切换。默认为<uicontrol>中</uicontrol>号字体。</cmd>
+                <info>
+                    <fig id="fig_g5w_ykg_2gb">
+                        <image placement="break"
+                                href="../images/common%20operation/font_setting.png"
+                                id="image_wtn_flg_2gb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

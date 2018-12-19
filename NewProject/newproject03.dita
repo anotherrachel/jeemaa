@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ejv_yh3_dgb">
+    <title>选择翻译工具</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p> 您可以根据个人需求选择翻译工具，包括：</p>
+            <p>
+            <ul>
+                <li><xref href="newproject03-1.dita">选择机器翻译工具</xref></li>
+                <li><xref href="newproject03-2.dita">创建术语库</xref></li>
+                <li><xref href="newproject03-3.dita">创建个人记忆库</xref></li>
+                <li><xref href="newproject03-4.dita">选择共享记忆库</xref></li>
+            </ul>
+        </p>
+        </context>
+    </taskbody>
+</task>

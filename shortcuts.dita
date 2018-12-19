@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ikw_slb_dgb">
+    <title>常用快捷键</title>
+    <shortdesc>在翻译文件时常用的快捷键。</shortdesc>
+    <conbody>
+        <p>
+            <table frame="all" colsep="1" id="table_h41_tmb_dgb" class="- topic/table " scale="70">
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1*" align="center"/>
+                    <colspec colname="c2" colnum="2" colwidth="4.41*" align="center"/>
+                    <colspec colname="c3" colnum="3" colwidth="1.79*"/>
+                    <thead>
+                        <row>
+                            <entry> 功能名称</entry>
+                            <entry> 功能描述</entry>
+                            <entry> 快捷键</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry align="center" valign="middle">确认句段</entry>
+                            <entry align="center" valign="middle">保存并提交当前句中的多个句段</entry>
+                            <entry align="center" valign="middle">Enter（回车）</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">复制原文</entry>
+                            <entry align="center" valign="middle">将当前句段或选中的多个句段的原文复制到对应的译文框</entry>
+                            <entry align="center" valign="middle">Ctrl+lnsert</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">清除译文</entry>
+                            <entry align="center" valign="middle">将当前句段或选中的多个句段的译文框清空</entry>
+                            <entry align="center" valign="middle">Ctrl+Delete</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">添加术语</entry>
+                            <entry align="center" valign="middle">新增术语</entry>
+                            <entry align="center" valign="middle">Ctrl+S</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">相关搜索</entry>
+                            <entry align="center" valign="middle">在记忆库或术语库中搜索语句片段（词或词组）</entry>
+                            <entry align="center" valign="middle">F3</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">添加备注</entry>
+                            <entry align="center" valign="middle">给句段添加注释</entry>
+                            <entry align="center" valign="middle">Ctrl+M</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">上一句</entry>
+                            <entry align="center" valign="middle">跳到上一句段</entry>
+                            <entry align="center" valign="middle">Ctrl+Up</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">下一句</entry>
+                            <entry align="center" valign="middle">跳到下一句段</entry>
+                            <entry align="center" valign="middle">Ctrl+Down</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">跳转到句</entry>
+                            <entry align="center" valign="middle">跳到指定编号的句段</entry>
+                            <entry align="center" valign="middle">Ctrl+G</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">粗体</entry>
+                            <entry align="center" valign="middle">将选中的文本加粗</entry>
+                            <entry align="center" valign="middle">Ctrl+B</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">斜体</entry>
+                            <entry align="center" valign="middle">将选中的文本变成斜体</entry>
+                            <entry align="center" valign="middle">Ctrl+I</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">下划线</entry>
+                            <entry align="center" valign="middle">给选中的文本添加下划线</entry>
+                            <entry align="center" valign="middle">Ctrl+U</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">下标</entry>
+                            <entry align="center" valign="middle">将选中的文本设置为下标</entry>
+                            <entry align="center" valign="middle">Ctrl+=</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">上标</entry>
+                            <entry align="center" valign="middle">将选中的文本设置为上标</entry>
+                            <entry align="center" valign="middle">Ctrl+ShFft++</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">获取译文</entry>
+                            <entry align="center" valign="middle">将右侧翻译结果插入到译文框</entry>
+                            <entry align="center" valign="middle">Ctrl+编号</entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">编辑原文</entry>
+                            <entry align="center" valign="middle">修改句段原文</entry>
+                            <entry align="center" valign="middle">F2</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </conbody>
+</concept>

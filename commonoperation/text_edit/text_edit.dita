@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_hbt_gkc_dgb">
+    <title>译文与格式编辑</title>
+    <shortdesc>翻译准备工作中对文本所做的一些修改，包括对文字格式的编辑以及对译文的修改。</shortdesc>
+    <conbody>
+        <p>主要包括以下三个方面：</p>
+        <p>
+            <ul id="ul_ig3_wlc_dgb">
+                <li><xref href="text_edit01.dita"/></li>
+                <li><xref href="text_edit02.dita"/></li>
+                <li><xref href="text_edit03.dita"/></li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

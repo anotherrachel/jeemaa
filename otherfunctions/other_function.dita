@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_hbt_gkc_dgb">
+    <title>与其他项目人员合作</title>
+    <shortdesc>当您与其他项目人员合作时，通过添加备注等功能帮助您高效完成翻译项目。</shortdesc>
+    <conbody>
+        <p>主要包括以下三个方面：</p>
+        <p>
+            <ul id="ul_ig3_wlc_dgb">
+                <li><xref href="other_function00.dita">添加备注</xref></li>
+                <li><xref href="other_function01.dita">查看修改记录</xref></li>
+                <li><xref href="other_function02.dita">加入聊天室</xref></li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

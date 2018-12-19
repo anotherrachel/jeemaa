@@ -2,9 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_hbt_gkc_dgb">
     <title>项目设置</title>
-    <shortdesc>对于已创建好的项目的一些具体的参数管理功能，了解之后能使你更加的熟练地管理自己的翻译任务。</shortdesc>
+    <shortdesc>了解已创建好的项目的一些具体的参数管理功能，帮助您更加的熟练地管理自己的翻译任务。</shortdesc>
     <conbody>
-        <p>对于已经创建好的项目，如果在翻译过程中需要改变项目的一些参数设置，需要用到项目设置的一些功能，本节对于该功能的介绍主要包括以下三个方面：</p>
+        <p>对于已经创建好的项目，如果在翻译过程中需要改变项目的一些参数设置，需要用到项目设置的一些功能，主要包括以下三个方面：</p>
         <p>
             <ul id="ul_ig3_wlc_dgb">
                 <li><xref href="project-setting01.dita">新增翻译文件</xref></li>

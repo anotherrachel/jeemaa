@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="QAcheck">
+    <title>QA检查</title>
+    <shortdesc>QA 检查，即低错检查，包括数字错误、术语错误、标点错误、格式错误、拼写错误、漏译以及译文不一致等。</shortdesc>
+    <conbody>
+        <p>QA检查包括自动QA当前句段和手动QA全文两种。<ul id="ul_olg_m4f_2gb">
+                <li><xref href="QAcheck01.dita#QAcheck01">自动QA</xref></li>
+                <li><xref href="QAcheck02.dita#QAcheck02">手动QA</xref></li>
+            </ul></p>
+    </conbody>
+</concept>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_hbt_gkc_dgb">
+    <title>编辑原文</title>
+    <shortdesc>对原文的编辑可以帮助您提高翻译质量。</shortdesc>
+    <conbody>
+        <p>主要包括以下两个方面：</p>
+        <p>
+            <ul id="ul_ig3_wlc_dgb">
+                <li><xref href="source_edit01.dita"/></li>
+                <li><xref href="source_edit02.dita"/></li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

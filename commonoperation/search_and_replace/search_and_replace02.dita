@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="other_function11">
+    <title>查找与替换译文</title>
+    <shortdesc>批量替换译文内容，有助于保持译文的一致性。</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>点击辅助区中的<uicontrol>替换</uicontrol>菜单，切换到替换界面。</cmd>
+                <info>
+                    <fig id="fig_hkx_2pk_dgb">
+                        <title>替换</title>
+                        <image href="../../images/common%20operation/%E6%9B%BF%E6%8D%A2.png"
+                            width="500" height="500" id="image_ikx_2pk_dgb"/>
+                    </fig>
+                </info>
+                <info>开启<uicontrol>区分大小写</uicontrol>后译文搜索支持大小写的区分。</info>
+            </step>
+            <step>
+                <cmd>在查找框中输入待替换的内容，点击<uicontrol>查找</uicontrol>或使用快捷键（Enter）定位到译文。</cmd>
+            </step>
+            <step>
+                <cmd>在替换框中输入替换后的内容进行替换，根据需要在三种替换方式中进行选择。</cmd>
+                <info>
+                    <ul id="ul_icp_shg_2gb">
+                        <li><uicontrol>替换</uicontrol>：仅替换当前句段内容。</li>
+                        <li><uicontrol>替换</uicontrol>：仅替换当前句段内容。</li>
+                        <li><uicontrol>全部替换</uicontrol>：替换所有含待替换内容的句段。</li>
+                    </ul>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

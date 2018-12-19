@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="other_function02">
+    <title>加入聊天室</title>
+    <shortdesc>项目聊天室是用于参与项目翻译人员时实交流工具。团队协作时，您可以通过及时与其他项目人员沟通。</shortdesc>
+    <taskbody>
+        <context>
+            <p>项目聊天室有未读的消息数提醒，聊天室窗口可以随意拖动。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击页面右上角的<uicontrol>项目聊天室</uicontrol>。</cmd>
+            </step>
+            <step>
+                <cmd>将光标移动至输入框中，输入消息。</cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>发送</uicontrol>发送消息。</cmd>
+                <info>
+                    <fig id="fig_dmn_zwc_dgb">
+                        <title>项目聊天室</title>
+                        <image href="../images/chat_room.png" id="image_emn_zwc_dgb" width="500"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

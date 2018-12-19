@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="other_function00">
+    <title>合并和拆分句段</title>
+    <shortdesc>您可以通过合并和拆分句段来调整断句不合理的情况。</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>选中要合并的前一个句段，点击工具栏中的 <uicontrol>合并句段</uicontrol>按钮进行句段合并。合并成功后不可撤销。</cmd>
+                <info>
+                    <fig id="fig_zjw_3hk_dgb">
+                        <title>合并原文</title>
+                        <image
+                            href="../../images/common%20operation/%E5%90%88%E5%B9%B6%E5%8E%9F%E6%96%87.png"
+                            id="image_akw_3hk_dgb" scale="80"/>
+                    </fig>
+                </info>
+            </step>
+            <stepsection/>
+            <step>
+                <cmd>如需拆分句段，进入原文编辑状态。</cmd>
+            </step>
+            <step>
+                <cmd>将光标定位在需拆分的位置，点击工具栏上的<uicontrol>拆分句段</uicontrol>按钮进行句段拆分。</cmd>
+                <info>
+                    <fig id="fig_rhc_5hk_dgb">
+                        <title>拆分前</title>
+                        <image
+                            href="../../images/common%20operation/%E6%8B%86%E5%88%86%E5%89%8D.png"
+                            id="image_g3c_5hk_dgb" scale="80"/>
+                    </fig>
+                    <fig id="fig_pmj_vhk_dgb">
+                        <title>拆分后</title>
+                        <image
+                            href="../../images/common%20operation/%E6%8B%86%E5%88%86%E5%90%8E.png"
+                            id="image_qmj_vhk_dgb" scale="80"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

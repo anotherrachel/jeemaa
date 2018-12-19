@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="display_setting02">
+    <title>修改主题模式</title>
+    <shortdesc>您可以根据需要，在不同主题模式之间进行切换。</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>在右上角设置功能区找到<uicontrol>模式切换</uicontrol>选项。</cmd>
+            </step>
+            <step>
+                <cmd>除<uicontrol>普通模式</uicontrol>外，还有<uicontrol>护眼模式</uicontrol>、<uicontrol>夜间模式</uicontrol>可供选择。默认为<uicontrol>普通模式</uicontrol>。</cmd>
+                <info>
+                    <table frame="all" id="table_tsk_mq3_2gb">
+                        <tgroup cols="2">
+                            <colspec colname="c1" colnum="1"/>
+                            <colspec colname="c2" colnum="2"/>
+                            <thead>
+                                <row>
+                                    <entry align="center" valign="middle">主题模式</entry>
+                                    <entry align="center" valign="middle">预览</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry align="center" valign="middle">普通模式</entry>
+                                    <entry><image href="../images/common%20operation/mode0.png"
+                                            scale="30" id="image_lp3_tq3_2gb"/></entry>
+                                </row>
+                                <row>
+                                    <entry align="center" valign="middle">护眼模式一</entry>
+                                    <entry><image href="../images/common%20operation/mode1.png"
+                                            scale="30" id="image_n3s_pq3_2gb"/></entry>
+                                </row>
+                                <row>
+                                    <entry align="center" valign="middle">护眼模式二</entry>
+                                    <entry><image href="../images/common%20operation/mode2.png"
+                                            scale="30" id="image_o3s_pq3_2gb"/></entry>
+                                </row>
+                                <row>
+                                    <entry align="center" valign="middle">夜间模式</entry>
+                                    <entry><image href="../images/common%20operation/mode3.png"
+                                            scale="30" id="image_p3s_pq3_2gb"/></entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

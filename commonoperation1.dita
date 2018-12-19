@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="commonoperation1">
+    <title>常用操作</title>
+    <shortdesc>翻译过程中的这些常见操作可以让您提高工作效率。</shortdesc>
+    <conbody>
+        <p>
+            <ul id="ul_ig3_wlc_dgb">
+                <li><xref href="commonoperation/text_edit/text_edit.dita"/></li>
+                <li><xref href="commonoperation/source_edit/source_edit.dita"/></li>
+                <li><xref href="commonoperation/search_and_replace/search_and_replace.dita"/></li>
+                <li><xref href="commonoperation/filter.dita"/></li>
+                <li><xref href="commonoperation/preview.dita"/></li>
+                <li><xref href="commonoperation/term_setting.dita"/></li>
+                <li><xref href="commonoperation/QAcheck.dita"/></li>
+                <li><xref href="commonoperation/display_setting.dita"/></li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

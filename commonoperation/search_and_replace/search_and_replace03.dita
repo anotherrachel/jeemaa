@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="other_function02">
+    <title>语料搜索</title>
+    <shortdesc>语料搜索包含记忆库和术语库搜索，对语料库的搜索可快速让您找到正确的翻译。</shortdesc>
+    <taskbody>
+        <context>支持对原文和译文分别搜索。</context>
+        <steps>
+            <step>
+                <cmd>点击工具栏中的<uicontrol>搜索</uicontrol>图标或在右侧辅助区点击<uicontrol>搜索</uicontrol>选项卡或切换到搜索界面。</cmd>
+                <info>
+                    <fig id="fig_rfp_g5k_dgb">
+                        <title>搜索语料</title>
+                        <image
+                            href="../../images/common%20operation/%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%96%992.png"
+                            id="image_sfp_g5k_dgb" scale="80"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>输入待检索内容，支持对原文和译文分别搜索。</cmd>
+                <info>
+                    <fig id="fig_ocz_ypk_dgb">
+                        <title>搜索语料结果</title>
+                        <image
+                            href="../../images/common%20operation/%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%96%99.png"
+                            width="500" height="500" id="image_pcz_ypk_dgb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

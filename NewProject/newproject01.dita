@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="anp_yh3_dgb">
+    <title>上传待翻译文件</title>
+    <shortdesc/>
+    <taskbody>
+        <steps id="steps_xzh_vph_dgb">
+            <step>
+                <cmd>单击主页的<uicontrol>上传待翻译的文件</uicontrol>按钮，进入创建项目页面。</cmd>
+            </step>
+            <step>
+                <cmd>单击<uicontrol>选择上传待翻译的文件</uicontrol>按钮上传文件。</cmd>
+                <info>
+                    <p><b>注意</b>：译马网支持的格式为doc、docx、rtf、xls、xlsx、ppt、pptx、dwg、dxf、sdlxliff、vsdx、xmind。</p>
+                </info>
+            </step>
+            <step>
+                <cmd>在弹出的窗口选择您要翻译的文件。</cmd>
+                <info>
+                    <ul id="ul_bbg_1wg_2gb">
+                        <li>无错误提示信息即为上传成功。</li>
+                        <li>若上传失败会显示具体的错误提示信息（如“名称不能有+”），请根据提示信息重新上传。</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>如对导入的文件有进一步设置，开启<uicontrol>显示文件导入选项</uicontrol>。</cmd>
+                <info>
+                    <fig id="fig_dzm_t5r_dgb">
+                        <title>文件导入设置</title>
+                        <image href="../images/newproject/newproject01.png" id="image_ezm_t5r_dgb"
+                            width="800" height="280"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>单击<uicontrol>下一步</uicontrol>按钮，进行下一步操作。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

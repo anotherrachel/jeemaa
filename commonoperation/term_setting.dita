@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_evw_g52_dgb">
+    <title>更新QA术语库</title>
+    <shortdesc>如果项目翻译工具设置了术语库并指定为QA术语库，译员在翻译时可对术语库进行更新。QA术语库用于保存新添加的术语和检查术语一致性。</shortdesc>
+    <conbody>
+        <ul id="ul_zjj_qxf_2gb">
+            <li><xref href="term_setting01.dita#task_npn_2x2_dgb">添加术语</xref></li>
+            <li><xref href="term_setting02.dita#term_setting02">修改术语</xref></li>
+            <li><xref href="term_setting03.dita#term_setting03">删除术语</xref></li>
+        </ul>
+    </conbody>
+</concept>

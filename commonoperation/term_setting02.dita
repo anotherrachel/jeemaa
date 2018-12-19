@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="term_setting02">
+    <title>修改和删除术语</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>点击句段对应的译文栏时，系统会自动检查其中的术语并显示于右侧辅助区，同时下方会出现<uicontrol>编辑</uicontrol>和<uicontrol>删除</uicontrol>按钮。</cmd>
+                <info>
+                    <fig id="fig_n5f_kcg_2gb">
+                        <title>术语编辑与删除</title>
+                        <image placement="inline" href="../images/common%20operation/editterm01.png"
+                            scale="80" id="image_xc4_mcg_2gb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>选择待修改的术语，点击<uicontrol>编辑</uicontrol>修改术语的译文。</cmd>
+            </step>
+            <step>
+                <cmd>修改完成后，选择<uicontrol>保存</uicontrol>更新QA术语库。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

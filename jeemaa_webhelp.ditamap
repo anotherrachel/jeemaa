@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>译马网指南</title>
+    <topicref href="start.dita">
+        <topicref href="intro.dita"/>
+        <topicref href="quickstart/quickstart.dita"/>
+        <topicref href="shortcuts.dita"/>
+    </topicref>
+    <topicref href="prepare.dita">
+        <topicref href="NewProject/newproject.dita">
+            <topicref href="NewProject/newproject01.dita"/>
+            <topicref href="NewProject/newproject02.dita"/>
+            <topicref href="NewProject/newproject03.dita">
+                <topicref href="NewProject/newproject03-1.dita"/>
+                <topicref href="NewProject/newproject03-2.dita"/>
+                <topicref href="NewProject/newproject03-3.dita"/>
+                <topicref href="NewProject/newproject03-4.dita"/>
+            </topicref>
+            <topicref href="NewProject/newproject04.dita"/>
+        </topicref>
+        <topicref href="projectsetting/project-setting.dita">
+            <topicref href="projectsetting/project-setting01.dita"/>
+            <topicref href="projectsetting/project-setting02.dita"/>
+            <topicref href="projectsetting/project-setting03.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="commonoperation/commonoperation.dita">
+        <topicref href="commonoperation/text_edit/text_edit.dita">
+            <topicref href="commonoperation/text_edit/text_edit01.dita"/>
+            <topicref href="commonoperation/text_edit/text_edit02.dita"/>
+            <topicref href="commonoperation/text_edit/text_edit03.dita"/>
+        </topicref>
+        <topicref href="commonoperation/source_edit/source_edit.dita">
+            <topicref href="commonoperation/source_edit/source_edit02.dita"/>
+            <topicref href="commonoperation/source_edit/source_edit01.dita"/>
+        </topicref>
+        <topicref href="commonoperation/search_and_replace/search_and_replace.dita">
+            <topicref href="commonoperation/search_and_replace/search_and_replace01.dita"/>
+            <topicref href="commonoperation/search_and_replace/search_and_replace02.dita"/>
+            <topicref href="commonoperation/search_and_replace/search_and_replace03.dita"/>
+        </topicref>
+        <topicref href="commonoperation/filter.dita"/>
+        <topicref href="commonoperation/preview.dita"/>
+        <topicref href="commonoperation/QAcheck.dita">
+            <topicref href="commonoperation/QAcheck01.dita"/>
+            <topicref href="commonoperation/QAcheck02.dita"/>
+        </topicref>
+        <topicref href="commonoperation/term_setting.dita">
+            <topicref href="commonoperation/term_setting01.dita"/>
+            <topicref href="commonoperation/term_setting02.dita"/>
+            <topicref href="commonoperation/term_setting03.dita"/>
+        </topicref>
+        <topicref href="otherfunctions/other_function.dita">
+            <topicref href="otherfunctions/other_function00.dita"/>
+            <topicref href="otherfunctions/other_function01.dita"/>
+            <topicref href="otherfunctions/other_function02.dita"/>
+        </topicref>
+        <topicref href="commonoperation/display_setting.dita">
+            <topicref href="commonoperation/display_setting01.dita"/>
+            <topicref href="commonoperation/display_setting02.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="FAQs/faqs.dita"/>
+    
+</map>

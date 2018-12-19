@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="display_setting">
+    <title>显示设置</title>
+    <shortdesc>您可以根据需要对翻译界面的字号、主题模式进行修改。</shortdesc>
+    <conbody>
+        <p>
+            <ul id="ul_nbw_kmf_2gb">
+                <li><xref href="display_setting01.dita#task_nkz_3h2_dgb">调整字号</xref></li>
+                <li><xref href="display_setting02.dita#display_setting02">修改主题模式</xref></li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

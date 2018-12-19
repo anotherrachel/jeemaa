@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="x5g_zh3_dgb">
+    <title>选择个人记忆库</title>
+    <shortdesc>您可以根据需要选择创建使用一个或多个记忆库，但只能将其中一个记忆库设置为更新库（启用了“更新”选项的库），该记忆库用于保存本项目新产生的语料。</shortdesc>
+    <taskbody>
+        <steps id="steps_zgc_rc3_dgb">
+            <step>
+                <cmd>点击<uicontrol>个人记忆库</uicontrol>选项卡进入个人记忆库界面。默认勾选<uicontrol>使用记忆总库</uicontrol>。</cmd>
+            </step>
+            <step>
+                <cmd>如无可选个人记忆库，点击<uicontrol>创建记忆库</uicontrol>按钮创建记忆库。</cmd>
+            </step>
+            <step>
+                <cmd>在弹出的窗口设置记忆库的相关信息，包括记忆库名称、导入记忆库文件、选择标签、选择语种、添加备注。</cmd>
+            </step>
+            <step>
+                <cmd>勾选记忆库后的<image href="../images/icon/check.png" width="22" height="22"
+                        id="image_oqs_wfj_dgb"/>图标，选择使用该记忆库。</cmd>
+            </step>
+            <step>
+                <cmd>点击<image href="../images/icon/choose.png" width="22" height="22"
+                        id="image_dls_xfj_dgb"/>图标，设置该记忆库为更新库。</cmd>
+            </step>
+            <step>
+                <cmd>如默认其他翻译工具，单击<uicontrol>下一步</uicontrol>按钮。</cmd>
+                <info>
+                    <fig id="fig_ux3_vsg_2gb">
+                        <title>选择翻译工具-个人记忆库</title>
+                        <image placement="break" href="../images/newproject/newproject03-3.png"
+                            scale="80" id="image_spk_wsg_2gb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

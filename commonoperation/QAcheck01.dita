@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="QAcheck01">
+    <title>自动QA</title>
+    <shortdesc>自动QA即系统自动对当前句段的译文进行低错检查。</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>句段翻译完成后，确认句段。确认句段的方式有以下三种：</cmd>
+                <info>
+                    <ul id="ul_os1_h2f_dgb">
+                        <li>使用回车快捷键（Enter）。</li>
+                        <li>点击上方工具栏中的<uicontrol>确认</uicontrol>图标。</li>
+                        <li>在译文栏右侧点击对勾标志。</li>
+                    </ul>
+                </info>
+                <info>
+                    <fig id="fig_kw3_jpf_2gb">
+                        <title>三种确认句段的方式</title>
+                        <image href="../images/common%20operation/confirm.png"
+                            id="image_lmt_kpf_2gb" width="800"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>系统自动对当前译文进行低错检查。如果包含低错，则会在译文栏右上角出现一个红色三角形。</cmd>
+                <info>
+                    <fig id="fig_a3m_ppf_2gb">
+                        <title>自动QA</title>
+                        <image href="../images/common%20operation/autoQA01.png"
+                            id="image_sfw_cqf_2gb" placement="break" width="800"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>点击红色三角形，查看具体的错误信息。</cmd>
+                <info>
+                    <fig id="fig_dgv_dqf_2gb">
+                        <title>查看错误信息</title>
+                        <image href="../images/common%20operation/autoQA02.png"
+                            id="image_j1h_wtf_2gb" scale="80"/>
+                    </fig>
+                </info>
+                <info><b>注意：</b>错误信息仅供参考，如果确认无误可以选择忽略。</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

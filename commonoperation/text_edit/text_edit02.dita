@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="other_function00">
+    <title>复制原文到译文</title>
+    <shortdesc>快速将原文复制到译文栏。</shortdesc>
+    <taskbody>
+        <context>
+            <ul id="ul_ndr_gmg_2gb">
+                <li>在工具栏中点击相应图标或使用快捷键（Ctrl+lnsert），即可将对应栏中原文复制到译文。<fig id="fig_adb_jmg_2gb">
+                        <title>复制原文到译文</title>
+                    </fig><image placement="break"
+                        href="../../images/common%20operation/%E5%A4%8D%E5%88%B6%E5%8E%9F%E6%96%87%E5%88%B0%E8%AF%91%E6%96%87.png"
+                        scale="80" id="image_chp_kmg_2gb"/></li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

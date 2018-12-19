@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="kff_zh3_dgb">
+    <title>选择术语库</title>
+    <shortdesc>您可以根据需要选择创建使用一个或多个术语库，但只能将其中一个术语库设置为QA库（启用了“QA”选项的库），在QA（低错检查）过程中检查术语的正确性和一致性。 </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>点击<uicontrol>术语库</uicontrol>选项卡进入术语库界面。</cmd>
+            </step>
+            <step>
+                <cmd>如当前无可选术语库，点击<uicontrol>创建术语库</uicontrol>按钮创建术语库。</cmd>
+            </step>
+            <step>
+                <cmd>在弹出的窗口设置术语库的相关信息，包括术语库名称、导入术语库文件、选择标签、选择语种、添加备注。</cmd>
+            </step>
+            <step>
+                <cmd>勾选术语库后的<image href="../images/icon/check.png" width="22" height="22"
+                        id="image_oqs_wfj_dgb"/>图标，选择使用该术语库。</cmd>
+            </step>
+            <step>
+                <cmd>点击QA下面的<image href="../images/icon/choose.png" width="22" height="22"
+                        id="image_dls_xfj_dgb"/>图标，设置该术语库为QA术语库。（可选）</cmd>
+            </step>
+            <step>
+                <cmd>如默认其他翻译工具，点击<uicontrol>下一步</uicontrol>按钮。</cmd>
+                <info>
+                    <fig id="fig_ig3_yrg_2gb">
+                        <title>选择翻译工具-术语库<image placement="break"
+                                href="../images/newproject/newproject03-2.png"
+                                id="image_lwv_1sg_2gb" width="800"/></title>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

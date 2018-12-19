@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_npn_2x2_dgb">
+    <title>添加术语</title>
+    <shortdesc/>
+    <taskbody>
+        <context>添加术语到QA术语库中。<p/></context>
+        <steps>
+            <step>
+                <cmd>在上方工具栏中点击<uicontrol><image placement="inline"
+                            href="../images/icon/icon_addterm.png" id="image_kwm_1zf_2gb" scale="70"
+                        /></uicontrol>图标或使用快捷键（Ctrl+S）打开添加术语窗口。</cmd>
+                <info>
+                    <fig id="fig_zzf_fyf_2gb">
+                        <title>打开添加术语窗口</title>
+                        <image href="../images/common%20operation/addterm01.png"
+                            id="image_bms_3yf_2gb" width="800"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>用鼠标在原文栏和译文栏选中要添加的词汇，系统自动获取选中的词汇到对应的位置。</cmd>
+                <info>
+                    <fig id="fig_xh2_rzf_2gb">
+                        <title>鼠标划取词汇</title>
+                        <image placement="break" href="../images/common%20operation/addterm02.png"
+                            id="image_mwy_szf_2gb" width="800"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>添加</uicontrol>按钮即可将术语添加到QA术语库中。</cmd>
+                <info>
+                    <p>添加完成后，在右方辅助区即会显示已添加的术语。</p>
+                </info>
+                <info>
+                    <p>
+                        <fig id="fig_gz3_h1g_2gb">
+                            <title>显示已添加的术语</title>
+                            <image placement="break"
+                                href="../images/common%20operation/addterm03.png"
+                                id="image_fcm_v1g_2gb" width="800"/>
+                        </fig>
+                    </p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

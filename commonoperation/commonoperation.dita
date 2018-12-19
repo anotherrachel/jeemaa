@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_hbt_gkc_dgb">
+    <title>开始翻译</title>
+    <shortdesc>开始利用译马网辅助翻译！翻译过程中的这些常见操作可以让您提高工作效率。</shortdesc>
+    <conbody>
+        <p>
+            <ul id="ul_ig3_wlc_dgb">
+                <li><xref href="text_edit/text_edit.dita"/></li>
+                <li><xref href="source_edit/source_edit.dita"/></li>
+                <li><xref href="search_and_replace/search_and_replace.dita"/></li>
+                <li><xref href="filter.dita"/></li>
+                <li><xref href="preview.dita"/></li>
+                <li><xref href="term_setting.dita#concept_evw_g52_dgb"/></li>
+                <li><xref href="QAcheck.dita"/></li>
+                <li><xref href="../otherfunctions/other_function.dita"/></li>
+                <li><xref href="display_setting.dita#display_setting"/></li>
+            </ul>
+        </p>
+    </conbody>
+</concept>
