@@ -20,9 +20,6 @@
             </step>
             <step>
                 <cmd>在弹出的窗口选择进行预翻译的工具以及匹配率。</cmd>
-            </step>
-            <step>
-                <cmd>单击<uicontrol>确定</uicontrol>，等待预翻译完成。</cmd>
                 <info>
                     <fig id="fig_abr_ttg_2gb">
                         <title>选择预翻译的工具<image placement="break"
@@ -30,6 +27,9 @@
                                 id="image_qpl_wtg_2gb"/></title>
                     </fig>
                 </info>
+            </step>
+            <step>
+                <cmd>单击<uicontrol>确定</uicontrol>，等待预翻译完成。</cmd>
             </step>
         </steps>
     </taskbody>
