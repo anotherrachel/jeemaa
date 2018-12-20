@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="display_setting02">
+<task id="display_setting02" xml:lang="zh-cn">
     <title>修改主题模式</title>
     <shortdesc>您可以根据需要，在不同主题模式之间进行切换。</shortdesc>
     <taskbody>

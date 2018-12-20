@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="other_function00">
+<task id="other_function00" xml:lang="zh-cn">
     <title>清除译文</title>
     <shortdesc>快速清除译文。</shortdesc>
     <taskbody>
@@ -8,8 +8,7 @@
             <ul id="ul_lt4_4mg_2gb">
                 <li>在工具栏中点击对应图标或使用快捷键（Ctrl+Delete），即可将对应栏中译文清空。<fig id="fig_c5h_qmg_2gb">
                         <title>清除译文</title>
-                        <image placement="break"
-                            href="../../images/common%20operation/%E6%B8%85%E9%99%A4%E8%AF%91%E6%96%87.png"
+                        <image placement="break" href="../../images/common%20operation/clear.png"
                             scale="80" id="image_mb2_smg_2gb"/>
                     </fig></li>
             </ul>

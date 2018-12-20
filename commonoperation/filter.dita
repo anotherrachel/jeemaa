@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="other_function02">
+<task id="other_function02" xml:lang="zh-cn">
     <title>筛选句段</title>
     <shortdesc>快速查找符合条件的句段，提高工作效率。</shortdesc>
     <taskbody>
@@ -16,9 +16,8 @@
                 <info>
                     <fig id="fig_fbz_slk_dgb">
                         <title>筛选句段</title>
-                        <image
-                            href="../images/common%20operation/%E7%AD%9B%E9%80%89%E5%8F%A5%E6%AE%B5.png"
-                            id="image_gbz_slk_dgb" scale="90"/>
+                        <image href="../images/common%20operation/filter.png" id="image_gbz_slk_dgb"
+                            scale="90"/>
                     </fig>
                 </info>
             </step>

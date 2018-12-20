@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="other_function00">
+<task id="other_function00" xml:lang="zh-cn">
     <title>更改记忆库和术语库设置</title>
     <shortdesc>管理已有或添加新的翻译记忆库与术语库。</shortdesc>
     <taskbody>
@@ -45,6 +45,7 @@
                 <cmd>在<uicontrol>别人分享给我的</uicontrol>选项卡内还可设置是否启用第三方记忆库。</cmd>
                 <info>
                     <fig id="fig_fhh_5ps_dgb">
+                        <title>记忆库界面</title>
                         <image href="../images/corpus-setting/step3.png" width="800"
                             id="image_ghh_5ps_dgb"/>
                     </fig>

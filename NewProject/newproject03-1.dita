@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="tly_yh3_dgb">
+<task id="tly_yh3_dgb" xml:lang="zh-cn">
     <title>选择机器翻译工具</title>
     <taskbody>
         <context>您可以根据个人喜好选择机器翻译工具，译马网提供译马机器翻译、秦穆机器翻译、小牛机器翻译、谷歌机器翻译和百度机器翻译供您选择。</context>
@@ -19,9 +19,9 @@
                 <cmd>如无默认其他翻译工具，点击<uicontrol>下一步</uicontrol>按钮。</cmd>
                 <info>
                     <fig id="fig_dhj_jsg_2gb">
-                        <title>选择翻译工具-机器翻译<image placement="break"
+                        <title>选择翻译工具-机器翻译</title><image placement="break"
                                 href="../images/newproject/newproject03-1.png"
-                                id="image_bmb_lsg_2gb" width="800"/></title>
+                                id="image_bmb_lsg_2gb" width="800"/>
                     </fig>
                 </info>
             </step>

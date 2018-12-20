@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="other_function11">
+<task id="other_function11" xml:lang="zh-cn">
     <title>查看修改记录</title>
     <shortdesc>修改记录可以帮助译员查看编辑和校对译文的修改情况。</shortdesc>
     <taskbody>

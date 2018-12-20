@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="other_function00">
+<task id="other_function00" xml:lang="zh-cn">
     <title>新增翻译文件</title>
     <shortdesc>临时增加的翻译任务文件。</shortdesc>
     <taskbody>

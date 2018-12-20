@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="QAcheck02">
+<task id="QAcheck02" xml:lang="zh-cn">
     <title>手动QA</title>
     <shortdesc>翻译完成后可人工对全文进行QA检查。</shortdesc>
     <taskbody>

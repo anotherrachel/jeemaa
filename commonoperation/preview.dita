@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="other_function02">
+<task id="other_function02" xml:lang="zh-cn">
     <title>预览原文</title>
     <shortdesc>翻译界面上原文被拆分成句子形式，个别情况下会影响译员对原文的理解，通过预览原文功能可以再现原文，便于理解翻译。</shortdesc>
     <taskbody>
@@ -11,9 +11,8 @@
                 <info>
                     <fig id="fig_jhb_3vk_dgb">
                         <title>预览原文</title>
-                        <image
-                            href="../images/common%20operation/%E9%A2%84%E8%A7%88%E5%8E%9F%E6%96%87.png"
-                            width="700" id="image_zhb_3vk_dgb"/>
+                        <image href="../images/common%20operation/preview.png" width="700"
+                            id="image_zhb_3vk_dgb"/>
                     </fig>
                 </info>
             </step>

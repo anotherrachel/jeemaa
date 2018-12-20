@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="other_function00">
+<task id="other_function00" xml:lang="zh-cn">
     <title>格式编辑</title>
     <shortdesc>您可以根据需要对原文和译文的文字做一些格式上的修改。</shortdesc>
     <taskbody>
@@ -26,8 +26,8 @@
                             <colspec colname="c2" colnum="2" colwidth="1*"/>
                             <thead>
                                 <row>
-                                    <entry>序号</entry>
-                                    <entry>含义</entry>
+                                    <entry align="center" valign="middle">序号</entry>
+                                    <entry align="center" valign="middle">含义</entry>
                                 </row>
                             </thead>
                             <tbody>

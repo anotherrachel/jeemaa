@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="x5g_zh3_dgb">
+<task id="x5g_zh3_dgb" xml:lang="zh-cn">
     <title>选择个人记忆库</title>
     <shortdesc>您可以根据需要选择创建使用一个或多个记忆库，但只能将其中一个记忆库设置为更新库（启用了“更新”选项的库），该记忆库用于保存本项目新产生的语料。</shortdesc>
     <taskbody>

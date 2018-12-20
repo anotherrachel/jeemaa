@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="other_function00">
+<task id="other_function00" xml:lang="zh-cn">
     <title>搜索原文与译文</title>
     <shortdesc>在工具栏的搜索框中可完成对译文和原文的分别检索。</shortdesc>
     <taskbody>
@@ -14,8 +14,7 @@
                 <info>
                     <fig id="fig_chl_24k_dgb">
                         <title>搜索原文与译文</title>
-                        <image
-                            href="../../images/common%20operation/%E6%90%9C%E7%B4%A2%E5%8E%9F%E6%96%87%E4%B8%8E%E8%AF%91%E6%96%87.png"
+                        <image href="../../images/common%20operation/search_ttst.png"
                             id="image_dhl_24k_dgb" scale="80" width="800"/>
                     </fig>
                 </info>

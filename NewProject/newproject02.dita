@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="ljs_yh3_dgb">
+<task id="ljs_yh3_dgb" xml:lang="zh-cn">
     <title>填写项目信息</title>
     <shortdesc/>
     <taskbody>
@@ -27,9 +27,9 @@
                 <cmd>点击<uicontrol>下一步</uicontrol>按钮，进行下一步操作。</cmd>
                 <info>
                     <fig id="fig_ywz_drg_2gb">
-                        <title>填写项目信息<image placement="break"
+                        <title>填写项目信息</title><image placement="break"
                                 href="../images/newproject/newproject02.png" id="image_tcy_mrg_2gb"
-                                height="400" width="800"/></title>
+                                height="400" width="800"/>
                     </fig>
                 </info>
             </step>

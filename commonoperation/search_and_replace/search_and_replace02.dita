@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="other_function11">
+<task id="other_function11" xml:lang="zh-cn">
     <title>查找与替换译文</title>
     <shortdesc>批量替换译文内容，有助于保持译文的一致性。</shortdesc>
     <taskbody>
@@ -11,8 +11,8 @@
                 <info>
                     <fig id="fig_hkx_2pk_dgb">
                         <title>替换</title>
-                        <image href="../../images/common%20operation/%E6%9B%BF%E6%8D%A2.png"
-                            width="500" height="500" id="image_ikx_2pk_dgb"/>
+                        <image href="../../images/common%20operation/replace.png" width="500"
+                            height="500" id="image_ikx_2pk_dgb"/>
                     </fig>
                 </info>
                 <info>开启<uicontrol>区分大小写</uicontrol>后译文搜索支持大小写的区分。</info>

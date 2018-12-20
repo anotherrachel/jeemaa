@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="QAcheck01">
+<task id="QAcheck01" xml:lang="zh-cn">
     <title>自动QA</title>
     <shortdesc>自动QA即系统自动对当前句段的译文进行低错检查。</shortdesc>
     <taskbody>

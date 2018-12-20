@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="kff_zh3_dgb">
+<task id="kff_zh3_dgb" xml:lang="zh-cn">
     <title>选择术语库</title>
     <shortdesc>您可以根据需要选择创建使用一个或多个术语库，但只能将其中一个术语库设置为QA库（启用了“QA”选项的库），在QA（低错检查）过程中检查术语的正确性和一致性。 </shortdesc>
     <taskbody>
@@ -26,9 +26,9 @@
                 <cmd>如默认其他翻译工具，点击<uicontrol>下一步</uicontrol>按钮。</cmd>
                 <info>
                     <fig id="fig_ig3_yrg_2gb">
-                        <title>选择翻译工具-术语库<image placement="break"
+                        <title>选择翻译工具-术语库</title><image placement="break"
                                 href="../images/newproject/newproject03-2.png"
-                                id="image_lwv_1sg_2gb" width="800"/></title>
+                                id="image_lwv_1sg_2gb" width="800"/>
                     </fig>
                 </info>
             </step>

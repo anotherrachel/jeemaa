@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="other_function11">
+<task id="other_function11" xml:lang="zh-cn">
     <title>编辑原文</title>
     <shortdesc>导入平台的文件中部分原文可能出现错误，这时需要通过编辑原文来修改。</shortdesc>
     <taskbody>
@@ -16,8 +16,7 @@
                 <info>
                     <fig id="fig_mlv_xjk_dgb">
                         <title>编辑原文</title>
-                        <image
-                            href="../../images/common%20operation/%E7%BC%96%E8%BE%91%E5%8E%9F%E6%96%87.png"
+                        <image href="../../images/common%20operation/source_edit.png"
                             id="image_nlv_xjk_dgb" scale="80"/>
                     </fig>
                 </info>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="ejm_zh3_dgb">
+<task id="ejm_zh3_dgb" xml:lang="zh-cn">
     <title>预翻</title>
     <shortdesc/>
     <taskbody>
@@ -12,9 +12,9 @@
                 <cmd>点击<uicontrol>下一步</uicontrol>按钮。</cmd>
                 <info>
                     <fig id="fig_c4q_4tg_2gb">
-                        <title>开启预翻译<image placement="break"
+                        <title>开启预翻译</title><image placement="break"
                                 href="../images/newproject/newproject04-1.png"
-                                id="image_uzb_ttg_2gb" width="800"/></title>
+                                id="image_uzb_ttg_2gb" width="800"/>
                     </fig>
                 </info>
             </step>
@@ -22,9 +22,9 @@
                 <cmd>在弹出的窗口选择进行预翻译的工具以及匹配率。</cmd>
                 <info>
                     <fig id="fig_abr_ttg_2gb">
-                        <title>选择预翻译的工具<image placement="break"
+                        <title>选择预翻译的工具</title><image placement="break"
                                 href="../images/newproject/newproject04-2.png" scale="80"
-                                id="image_qpl_wtg_2gb"/></title>
+                                id="image_qpl_wtg_2gb"/>
                     </fig>
                 </info>
             </step>

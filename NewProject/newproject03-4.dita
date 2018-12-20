@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="omj_zh3_dgb">
+<task id="omj_zh3_dgb" xml:lang="zh-cn">
     <title>选择共享记忆库</title>
     <taskbody>
         <steps id="steps_gfg_h23_dgb">
@@ -15,9 +15,9 @@
                 <cmd>如默认其他翻译工具，单击<uicontrol>下一步</uicontrol>按钮。</cmd>
                 <info>
                     <fig id="fig_mq5_btg_2gb">
-                        <title>选择翻译工具-共享记忆库<image placement="break"
+                        <title>选择翻译工具-共享记忆库</title><image placement="break"
                                 href="../images/newproject/newproject03-4.png"
-                                id="image_cbs_2tg_2gb" width="800"/></title>
+                                id="image_cbs_2tg_2gb" width="800"/>
                     </fig>
                 </info>
             </step>
