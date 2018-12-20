@@ -26,22 +26,26 @@
                                 <row>
                                     <entry align="center" valign="middle">普通模式</entry>
                                     <entry><image href="../images/common%20operation/mode0.png"
-                                            scale="30" id="image_lp3_tq3_2gb"/></entry>
+                                            id="image_lp3_tq3_2gb" height="150" width="300"
+                                            scale="30"/></entry>
                                 </row>
                                 <row>
                                     <entry align="center" valign="middle">护眼模式一</entry>
                                     <entry><image href="../images/common%20operation/mode1.png"
-                                            scale="30" id="image_n3s_pq3_2gb"/></entry>
+                                            scale="30" id="image_n3s_pq3_2gb" height="150"
+                                            width="300"/></entry>
                                 </row>
                                 <row>
                                     <entry align="center" valign="middle">护眼模式二</entry>
                                     <entry><image href="../images/common%20operation/mode2.png"
-                                            scale="30" id="image_o3s_pq3_2gb"/></entry>
+                                            scale="30" id="image_o3s_pq3_2gb" height="150"
+                                            width="300"/></entry>
                                 </row>
                                 <row>
                                     <entry align="center" valign="middle">夜间模式</entry>
                                     <entry><image href="../images/common%20operation/mode3.png"
-                                            scale="30" id="image_p3s_pq3_2gb"/></entry>
+                                            scale="30" id="image_p3s_pq3_2gb" height="150"
+                                            width="300"/></entry>
                                 </row>
                             </tbody>
                         </tgroup>
