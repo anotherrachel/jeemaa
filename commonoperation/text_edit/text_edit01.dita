@@ -9,9 +9,8 @@
         </context>
         <steps>
             <step>
-                <cmd>选中待修改格式的内容，点击工具栏对应的图标或使用<xref
-                        href="../../quickstart/shortcuts.dita#concept_ikw_slb_dgb"
-                    >快捷键</xref>修改格式。</cmd>
+                <cmd>选中待修改格式的内容，点击工具栏对应的图标或使用<xref href="../../shortcuts.dita#concept_ikw_slb_dgb"
+                        >快捷键</xref>修改格式。</cmd>
                 <info>
                     <fig id="fig_ovc_njg_2gb">
                         <title>格式编辑图标</title>
